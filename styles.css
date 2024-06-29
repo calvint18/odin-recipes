@@ -1,0 +1,28 @@
+button {
+    width: 100px;
+    height: 50px;
+    margin: 2px;
+    background-color: brown;
+    color: white;
+}
+
+h1 {
+    background-color: red;
+}
+
+ol, ul, img {
+    background-color: pink;
+    font-size: 25px;
+}
+
+h1.brown {
+    background-color: brown;
+}
+
+li {
+    margin-bottom: 5px;
+}
+
+.even {
+    background-color: burlywood;
+}
